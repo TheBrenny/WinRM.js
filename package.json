@@ -1,0 +1,16 @@
+{
+    "name": "winrb",
+    "version": "1.0.0",
+    "description": "A JS port of the WinRB gem",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib",
+        "test": "tests"
+    },
+    "scripts": {
+        "test": "echo \"Error: no tests specified. Maybe you could make one?\""
+    },
+    "keywords": [],
+    "author": "TheBrenny <iam@justbrenny.me>",
+    "license": "MIT"
+}
